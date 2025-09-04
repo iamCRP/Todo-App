@@ -1,7 +1,7 @@
 # 📝 Todo App
 
 A simple and elegant **Flutter Todo App** to manage your daily tasks.  
-This project is built with **Flutter** and demonstrates clean UI, state management, and Firebase integration (if you plan to extend it).  
+This project is built with **Flutter** and demonstrates clean UI, state management (if you plan to extend it).  
 
 ---
 

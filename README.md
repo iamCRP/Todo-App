@@ -1,10 +1,17 @@
-# todo_app
+# 📝 Todo App
 
-A new Flutter project.
+A simple and elegant **Flutter Todo App** to manage your daily tasks.  
+This project is built with **Flutter** and demonstrates clean UI, state management, and Firebase integration (if you plan to extend it).  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+
+- ➕ Add new tasks  
+- ✅ Mark tasks as complete/incomplete  
+- 🗑️ Delete tasks  
+- ✏️ Update existing tasks  
+- 📱 Responsive UI
 
 A few resources to get you started if this is your first Flutter project:
 
